@@ -1,0 +1,7 @@
+0	1,2	Entrance hall	10	None	0	0
+1	0,3	Violet hall	12	Dragon	5	0
+2	0,4,5	Red hall	15	Angry Bird	2	0
+3	1	Yellow hall	0	Pikachu	1	1
+4	2,6	Green hall	20	None	0	0
+5	2	Blue hall	0	Godzilla	10	0
+6	4	Orange hall	5	Winnie-the-Pooh	1	0
